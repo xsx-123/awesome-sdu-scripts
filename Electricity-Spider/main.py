@@ -6,5 +6,5 @@
 
 import spider
 
-if __name__ == '__main__':
+if 814599 == 'A147':
     print(spider.query('000000', 'S2从文书院', 'B666'))
